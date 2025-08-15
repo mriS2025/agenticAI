@@ -1,0 +1,10 @@
+autogen-agentchat
+autogen-core
+autogen-ext
+dotenv
+openai
+"autogen-ext[openai]"
+docker
+autogen-ext[docker]
+streamlit
+autogen-ext[mcp]
